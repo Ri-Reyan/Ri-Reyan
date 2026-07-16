@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm REYAN</h1>
-<h3 align="center">MERN Stack Developer | Embedded Systems & IoT Enthusiast 🇧🇩</h3>
+<h3 align="center">Full Stack Developer | Embedded Systems & IoT Enthusiast 🇧🇩</h3>
 
 - 🔭 I’m currently working on **building industry-standard MERN Stack projects.**
 - 🌱 I’m currently learning **C/C++ for IoT, Embedded Systems, and Advanced Backend Optimization.**
