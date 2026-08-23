@@ -88,15 +88,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
-
----
-
-<h3 align="left">GitHub Analytics:</h3>
-
----
-
-### 📈 Activity Graph:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ri-reyan&theme=react-dark&bg_color=0d1117&hide_border=true" alt="reyan's Activity Graph" width="100%" />
-</p>
