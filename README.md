@@ -13,8 +13,7 @@
 - ⚡ Fun fact: I love solving logical problems and building cool things with hardware & software.
 - 👨‍💻 All of my latest projects are available at **[reyan-jet.vercel.app](https://reyan-jet.vercel.app/)**
 - 📫 How to reach me: **rifatging@gmail.com**
-- 📄 Know more about my experiences: **[RESUME](https://docs.google.com/document/d/1WvHcK5zhN5PlkqsNu9XSO5NlmCrhRJsRJxr0A5gGDzc/edit?usp=drive_link)**
-
+- 📄 Know more about my experiences: **[![Resume](https://img.shields.io/badge/Resume-PDF-red?style=flat&logo=googledrive)]([https://drive.google.com/file/d/তোমার_FILE_ID/view](https://docs.google.com/document/d/1WvHcK5zhN5PlkqsNu9XSO5NlmCrhRJsRJxr0A5gGDzc/edit?usp=drive_link))**
 ---
 
 <h3 align="left">Connect with me:</h3>
