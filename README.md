@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Ri-Reyan's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <h1 align="center">Hi 👋, I'm REYAN</h1>
 <h3 align="center">Full Stack Developer | Embedded Systems & IoT Enthusiast 🇧🇩</h3>
 
