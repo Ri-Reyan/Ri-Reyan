@@ -5,24 +5,34 @@
 **Full-Stack Software Developer · Embedded Systems & IoT Enthusiast**  
 Dhaka / Gazipur, Bangladesh 🇧🇩
 
-[[https://img.shields.io/badge/Portfolio-reyan--jet.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white]](https://reyan-jet.vercel.app/)
-[[https://img.shields.io/badge/Resume-Google_Docs-4285F4?style=flat-square&logo=googledocs&logoColor=white]](https://docs.google.com/document/d/1WvHcK5zhN5PlkqsNu9XSO5NlmCrhRJsRJxr0A5gGDzc/edit?usp=drive_link)
-[[https://img.shields.io/badge/LinkedIn-i--reyannn-0A66C2?style=flat-square&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/i-reyannn)
-[[https://img.shields.io/badge/Email-rifatging%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white]](mailto:rifatging@gmail.com)
+<br />
+
+<a href="https://reyan-jet.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-reyan--jet.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://docs.google.com/document/d/1WvHcK5zhN5PlkqsNu9XSO5NlmCrhRJsRJxr0A5gGDzc/edit?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume" />
+</a>
+<a href="https://www.linkedin.com/in/i-reyannn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-i--reyannn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:rifatging@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rifatging%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
----
+<br />
 
 ### About Me
 
-I am a full-stack developer focused on building reliable, performant web applications and exploring the intersection between web systems and hardware. My day-to-day work centers around the **TypeScript**, **Next.js**, **Node.js**, and **PostgreSQL** ecosystems, building clean REST APIs, robust authentication flows, and responsive client architectures.
+I am a full-stack developer focused on building reliable, performant web applications and exploring the intersection between web systems and hardware. My primary focus centers around **TypeScript**, **Next.js**, **Node.js**, and **PostgreSQL**, building clean REST APIs, robust authentication flows, and responsive client architectures.
 
-- 🔭 **Current Focus:** Engineering full-stack web platforms and multi-tenant applications with modern databases and relational ORMs.
-- 🌱 **Learning & Exploring:** Low-level systems programming with **C/C++**, hardware interfacing with **Arduino / microcontrollers**, and backend latency optimization.
-- ⚡ **Engineering Mindset:** Bridging software with physical devices—from interactive web dashboards to hardware prototypes.
+* **Current Focus:** Engineering full-stack web platforms and multi-tenant applications with modern relational databases.
+* **Exploring:** Low-level systems programming with **C/C++**, hardware interfacing with **Arduino / microcontrollers**, and backend latency optimization.
+* **Engineering Mindset:** Bridging software with physical devices—from interactive web dashboards to hardware prototypes.
 
----
+<br />
 
 ### Featured Projects
 
@@ -32,69 +42,63 @@ I am a full-stack developer focused on building reliable, performant web applica
 | **GearUp** | **Equipment rental & inventory management system**<br>• End-to-end rental checkout flows powered by Stripe PaymentIntents<br>• Role-based admin dashboard with secure HTTP-only JWT authentication<br>• Global mobile optimization and Cloudinary media delivery<br>`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Stripe` | [Live Demo](https://gear-up-client-pi.vercel.app) · [Source](https://github.com/Ri-Reyan/GearUp) |
 | **Ashraf Therapy Clinic** | **Production healthcare web platform**<br>• Commercial web presence built for a local therapy & acupressure clinic<br>• Fast, mobile-first appointment and service presentation<br>`Next.js` `React` `Tailwind CSS` `Vercel` | [Live Site](https://acupressureclinic.vercel.app/) |
 
----
+<br />
 
 ### Technical Skills
 
 #### Languages & Core
-[https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white]
-[https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black]
-[https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black]
-[https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white]
-[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white]
-[https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white]
-[https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white]
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" />
+</p>
 
 #### Frontend & UI
-[https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black]
-[https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white]
-[https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white]
-[https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white]
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="38" height="38" />
+</p>
 
 #### Backend, Databases & Caching
-[https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white]
-[https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white]
-[https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white]
-[https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white]
-[https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white]
-[https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white]
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="38" height="38" />
+</p>
 
-#### Systems, Cloud & Developer Tools
-[https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white]
-[https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black]
-[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white]
-[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white]
-[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white]
-[https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white]
-[https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white]
+#### Systems, Hardware & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="38" height="38" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="38" height="38" />
+</p>
 
----
+<br />
 
-### GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ri-Reyan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Reyan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ri-Reyan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-### Connect & Collaborate
+### Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/i-reyannn">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rifatging@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/reyannn">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.facebook.com/i.reyannn">
-    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/i.reyannn">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/i-reyannn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="38" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/profile/reyannn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="32" width="38" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/i.reyannn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" width="38" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/i.reyannn" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="38" />
   </a>
 </p>
