@@ -34,16 +34,6 @@ I am a full-stack developer focused on building reliable, performant web applica
 
 <br />
 
-### Featured Projects
-
-| Project | Highlights & Tech Stack | Links |
-| :--- | :--- | :--- |
-| **TeamSync** | **Multi-tenant sprint & workspace management platform**<br>• Real-time Kanban updates via Pusher<br>• Role-based access control, Google OAuth & Stripe billing<br>• AI-assisted workflow integration via Google Gemini API & Groq<br>`Next.js` `TypeScript` `Express` `PostgreSQL` `Prisma` `Redis` `Pusher` | [Live Demo](https://teamsync-client-psi.vercel.app) · [Source](https://github.com/Ri-Reyan/teamsync) |
-| **GearUp** | **Equipment rental & inventory management system**<br>• End-to-end rental checkout flows powered by Stripe PaymentIntents<br>• Role-based admin dashboard with secure HTTP-only JWT authentication<br>• Global mobile optimization and Cloudinary media delivery<br>`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Stripe` | [Live Demo](https://gear-up-client-pi.vercel.app) · [Source](https://github.com/Ri-Reyan/GearUp) |
-| **Ashraf Therapy Clinic** | **Production healthcare web platform**<br>• Commercial web presence built for a local therapy & acupressure clinic<br>• Fast, mobile-first appointment and service presentation<br>`Next.js` `React` `Tailwind CSS` `Vercel` | [Live Site](https://acupressureclinic.vercel.app/) |
-
-<br />
-
 ### Technical Skills
 
 #### Languages & Core
